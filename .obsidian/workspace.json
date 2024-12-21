@@ -8,118 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "264a3350a9410ec4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "README.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "README"
-            }
-          },
-          {
-            "id": "2e687ac11c4f0e5e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "8.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "8"
-            }
-          },
-          {
-            "id": "e367135bba872a5e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "stranice/9.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "9"
-            }
-          },
-          {
-            "id": "59c1e5fcabea5f33",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "stranice/10.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "10"
-            }
-          },
-          {
-            "id": "56718619c8f21d92",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "stranice/11.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "11"
-            }
-          },
-          {
-            "id": "fac55b75cef1ad43",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "stranice/8.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "8"
-            }
-          },
-          {
-            "id": "958397f671c578d8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "stranice/9.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "9"
-            }
-          },
-          {
-            "id": "2efe65302c17d333",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "stranice/12.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "12"
-            }
-          },
-          {
             "id": "233be136604bd280",
             "type": "leaf",
             "state": {
@@ -132,9 +20,37 @@
               "icon": "lucide-file",
               "title": "14"
             }
+          },
+          {
+            "id": "f0e88a7919fafe9b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "stranice/15.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "15"
+            }
+          },
+          {
+            "id": "209f757365499ba5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "stranice/19.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "19"
+            }
           }
         ],
-        "currentTab": 8
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -275,26 +191,31 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "233be136604bd280",
+  "active": "209f757365499ba5",
   "lastOpenFiles": [
-    "stranice/13.md",
+    "stranice/18.md",
+    "stranice/19.md",
+    "stranice/17.md",
+    "stranice/16.md",
+    "stranice/15.md",
+    "slike/19.jpg",
+    "slike/photo_2024-12-21_22-50-07.jpg",
+    "slike/18.jpg",
+    "slike/photo_2024-12-21_22-49-32.jpg",
+    "slike/17.jpg",
+    "slike/photo_2024-12-21_22-49-10.jpg",
+    "slike/16.jpg",
+    "slike/photo_2024-12-21_22-48-52.jpg",
+    "slike/15.jpg",
+    "slike/photo_2024-12-21_22-48-21.jpg",
     "stranice/14.md",
-    "slike/14.jpg",
-    "slike/photo_2024-12-21_22-35-06.jpg",
+    "stranice/13.md",
     "stranice/12.md",
-    "slike/13.jpg",
-    "slike/photo_2024-12-21_22-32-22.jpg",
     "stranice/9.md",
     "stranice/8.md",
     "stranice",
-    "slike/mapa1.jpg",
-    "slike/photo_2024-12-21_22-22-30.jpg",
-    "slike/photo_2024-12-21_22-22-20.jpg",
     "stranice/11.md",
-    "slike/12.jpg",
-    "slike/photo_2024-12-21_22-19-21.jpg",
     "stranice/10.md",
-    "slike/11.jpg",
     "slike",
     "README.md"
   ]
