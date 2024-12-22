@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "stranice/32.md",
+                "file": "stranice/33.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "32"
+              "title": "33"
             }
           }
         ]
@@ -164,17 +164,18 @@
   },
   "active": "47f395f9607b2e2d",
   "lastOpenFiles": [
-    "stranice/31.md",
     "stranice/32.md",
+    "stranice/33.md",
+    "slike/33.jpg",
+    "slike/32.jpg",
+    "stranice/31.md",
     "stranice/30.md",
     "stranice/29.md",
     "stranice/28.md",
     "stranice/27.md",
     "stranice/26.md",
-    "slike/33.jpg",
     "slike/36.jpg",
     "slike/35.jpg",
-    "slike/32.jpg",
     "slike/31.jpg",
     "slike/30.jpg",
     "slike/29.jpg",
@@ -199,8 +200,6 @@
     "stranice/8.md",
     "stranice",
     "stranice/11.md",
-    "stranice/10.md",
-    "slike",
-    "README.md"
+    "slike"
   ]
 }
